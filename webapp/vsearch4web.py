@@ -4,6 +4,7 @@ from vsearch import search4letters
 app = Flask(__name__)
 
 
+# change
 # @app.route('/')
 # def hello() -> '302':
 #     return redirect('/entry')
